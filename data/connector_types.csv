@@ -1,0 +1,6 @@
+connector,description,max_kw
+CCS2,"DC fast, EU standard",350
+NACS (SAE J3400),"Tesla native, NA standard",350
+CHAdeMO,legacy DC (Nissan/older),100
+Type 2 AC,destination/overnight AC,22
+GB/T,Chinese standard DC,250

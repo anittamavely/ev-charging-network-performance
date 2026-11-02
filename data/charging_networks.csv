@@ -1,0 +1,11 @@
+network,footprint,ports_public,connectors,strategy,share_of_sessions
+Tesla Supercharger,global,70000,NACS/CCS,closed → opening to all,0.35
+ChargePoint,North America + EU,300000,mixed L2/DC,open network,0.12
+Electrify America,US,4000,CCS/NACS,ultra-fast focus,0.1
+EVgo,US,3000,CCS/NACS,urban fast charging,0.09
+Ionity,Europe,1500,CCS,autobahn corridors,0.08
+Fastned,Europe,300,CCS,high-traffic hubs,0.06
+Allego,Europe,70000,mixed,MLP e-roaming,0.07
+Shell Recharge,global,80000,mixed,oil-major buildout,0.06
+BP Pulse,UK/EU,20000,mixed,retail-site charging,0.04
+State Grid (China),China,1000000,GB/T,national scale,0.03

@@ -1,0 +1,5 @@
+power_class,use_case,typical_kw,session_share
+AC 7-22kW,destination / overnight,11,0.35
+DC 50kW,urban legacy fast,50,0.15
+DC 150kW,corridor fast,150,0.28
+DC 350kW,ultra-fast hub,350,0.22
